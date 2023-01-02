@@ -1,0 +1,25 @@
+.hero {
+    padding: 100px;
+}
+
+.title {
+    font-size: 55px;
+    max-width: 684px;
+}
+
+.title span {
+    color: #2176ff;
+}
+
+p {
+    max-width: 590px;
+    font-weight: 400;
+    line-height: 155%;
+}
+
+.fa-circle::before {
+    display: block;
+    content: "\f105";
+    color: #2176ff;
+
+}
